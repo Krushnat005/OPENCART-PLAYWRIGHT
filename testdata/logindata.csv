@@ -1,0 +1,3 @@
+testName,email,password,expected
+valid login,meyuqud@ozvmail.com,qwert,sucsess
+Invalid login,qwert.example123.com,mnbv,failure
